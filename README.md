@@ -1,2 +1,2 @@
 # weatherNode
-In development weather app
+In development weather app, still working on it...
